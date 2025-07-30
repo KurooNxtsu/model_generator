@@ -13,7 +13,7 @@ This project uses OpenAI’s [Shap-E](https://github.com/openai/shap-e) to gener
 ---
 
 ## 🛠️ Installation
-- Clone the repository and run python setup.py install to install all the required packages. Also make sure that the packages in requirements.txt are already existing in your enviornment.
+- Clone the repository and run python setup.py install to install all the required packages. Also make sure that the packages in requirements.txt are already existing in your enviornment. Run setup.py for downloading all the dependencies.
 ### Clone the repository
 
 ```bash
